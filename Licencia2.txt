@@ -1,0 +1,35 @@
+System Tools:
+
+System Tools es un programa echo en c + + y en batch iniciado como un proyecto de programacion que me propuse, este 
+proyecto a tenido dos verciones: la Beta 1.0 y la Beta 1.1, aunque en otros programas marque 1.3 o 1.4. System Tools 
+cuenta con MDI editor que es un programa de edicion de texto ligero echo en c + +, este esta en fase Alfa no como 
+System Tools que aun se encuentra en Beta, esto se debe a que ya esta completo el programa pero se piensa agregar en 
+un futuro mas opciones para su uso. 
+-------------------------------------------
+Terminos de uso:
+
+System Tools al ser un programa de codigo libre queda bajo su responsabilidad la manera en la que edite el codigo, 
+si usted desea modificar el codigo para un mal uso no me hago cargo de los estragos ocacionados ya que usted desde la 
+instalacion acepto estos terminos por lo tanto queda bajo su responsabilidad lo que decida hacer con el codigo.
+-------------------------------------------
+Errores en la beta:
+
+System Tools al ser un programa en beta contiene errores, uno de ellos son que al momento de maximizar System Tools la 
+interfaz grafica se corrompe causando que no se pueda utilizar de ninguna manera, los programas que contienen este 
+error son: System_Tools.exe, UsersHost.exe, STU1.exe, STU2.exe y MainMenu.exe.
+-------------------------------------------
+Como contactarnos:
+
+Si usted a mejorado o cambiado el codigo de System Tools favor de mandar un link de git hub a esta dirección de correo
+electronico cblock1112@gmail.com, si usted tiene preguntas al respecto tambien puede contactarse por ese correo.
+-------------------------------------------
+Info. Extra y Creditos
+
+Disponible para Win. 2000, Win. XP, Win. 7, Win. 8.1 y Win. 10.
+System Tools fue echo por Block 05/04/2022 a las 9:15 AM.
+Programado en batch y c + + usando Dev-c++ y Advanced BAT to EXE Converter (verción no premium).
+El archivo "recuperacion.bat" contiene el codigo fuente de la consola de System Tools, si usted lo modifica no tendra
+ningun efecto en el archivo exe ya que esete es un archivo de seguridad en caso de que se elimine el ejecutable.
+Verción del producto actual: 1.1 beta.
+
+
